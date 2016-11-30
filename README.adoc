@@ -7,8 +7,8 @@ Dominic Sisneros <https://github.com/dsisnero[@dsisnero]
 :source-language: ruby
 :language: {source-language}
 // Uris
-:uri-org: https://github.com/dsisnero
-:uri-repo: {uri-org}/microstation
+:uri-org: https://github.com/Federal-Aviation-Administration
+:uri-repo: {uri-org}/comm_app-log_parser
 :uri-issues: {uri-repo}/issues
 :uri-contributors: {uri-repo}/graphs/contributors
 :uri-changelog: {uri-rel-file-base}CHANGELOG.adoc
@@ -88,7 +88,7 @@ Using `bundle update` is *not* recommended as it will also update other gems, wh
 
 == Getting Help
 
-The Asciidoctor project is developed to help you easily write and publish your content.
+
 But we can't do that without your feedback!
 We encourage you to ask questions and discuss any aspects of the project on the discussion list, Twitter or IRC.
 
